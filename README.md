@@ -19,3 +19,8 @@ python3 -m pip install -U pygame --user
 ```sh
 ./play.sh
 ```
+
+## pygame M1 issue
+
+https://github.com/pygame/pygame/issues/2346#issuecomment-790740199
+
